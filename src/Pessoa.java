@@ -1,6 +1,9 @@
 public class Pessoa {
-    public String nome;
 
+    //Atributos da pesssoa
+
+    public String nome;
     public String sobrenome;
+     //metodos  da classes
     }
 }
