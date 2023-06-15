@@ -11,5 +11,12 @@ public class Main {
         qualquer.nome = "Rita";
         qualquer.sobrenome = "lee";
         qualquer.falar();
+
+        //instanciar objeto
+        rainha = new Pessoa();
+        //definir forma do objeto
+        reinha.nome = "Tina";
+        rainha.sobrenome = "Tunner"
+
     }
 }
