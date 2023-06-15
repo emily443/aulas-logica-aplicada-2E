@@ -5,5 +5,5 @@ public class Animal {
     String raca;
     Double peso;
     String corPele;
-    String corOlhoDireitoS
+    String corOlhoDireito;
 }

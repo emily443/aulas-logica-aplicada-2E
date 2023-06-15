@@ -13,10 +13,11 @@ public class Main {
         qualquer.falar();
 
         //instanciar objeto
-        rainha = new Pessoa();
+        qualquer instanceof = new Pessoa();
         //definir forma do objeto
-        reinha.nome = "Tina";
-        rainha.sobrenome = "Tunner"
+        qualquer.nome = "Tina";
+        qualquer.sobrenome = "Tunner";
+        qualquer.falar();
 
     }
 }
